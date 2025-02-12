@@ -1,0 +1,22 @@
+{
+                        "Apple": {
+                                                "quantity": 50,
+                                                "price": 1000.0
+                        },
+                        "Oranges": {
+                                                "quantity": 100,
+                                                "price": 2000.0
+                        },
+                        "Banana": {
+                                                "quantity": 70,
+                                                "price": 300.0
+                        },
+                        "Strawberry": {
+                                                "quantity": 100,
+                                                "price": 2000.0
+                        },
+                        "Mangoes": {
+                                                "quantity": 200,
+                                                "price": 2000.0
+                        }
+}
